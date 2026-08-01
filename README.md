@@ -83,13 +83,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyushwani2703&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyushwani27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushwani2703&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushwani27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushwani2703&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushwani27&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
