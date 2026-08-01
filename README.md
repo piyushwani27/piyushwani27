@@ -5,7 +5,7 @@
 <h3 align="center">💼 Aspiring Data Analyst | Python Developer | SQL • Power BI • Excel • Python | Open to Work</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyushwani2703&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Piyushwani2703" />
+  <img src="https://komarev.com/ghpvc/?username=Piyushwani27&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Piyushwani27" />
   <img src="https://img.shields.io/badge/Fresher-Ready%20to%20Learn-00C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Analyst-Python%20Developer-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-SQL%20%7C%20Power%20BI%20%7C%20Excel-FF9800?style=for-the-badge" />
