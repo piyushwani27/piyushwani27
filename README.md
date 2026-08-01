@@ -136,7 +136,7 @@
   </a>
 
   <a href="https://github.com/Piyushwani27">
-    <img src="https://img.shields.io/badge/GitHub-Piyushwani2703-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Piyushwani27-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
