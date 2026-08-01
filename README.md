@@ -35,63 +35,35 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
+</p>
 
 ### 📊 Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 💻 Languages & Databases
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 📊 Data Analytics & Libraries
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🧰 Development Tools
-
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-### 📚 Currently Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-00599C?style=for-the-badge)
-
-### 📈 Data Analytics Toolkit
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,powerbi,excel,jupyter,anaconda" />
+</p>
 
 ### 🌐 Web & Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,react,fastapi" />
+</p>
 
 ### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" />
+</p>
 
----
+### 🧰 Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
+
+### 📚 Currently Learning
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow" />
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -113,11 +85,11 @@
 
 | 🚀 Project | 📋 Overview | ⚙️ Tech Stack |
 |:-----------|:------------|:--------------|
-| 📊 **Sales Analytics Dashboard** | Interactive dashboard for analyzing sales trends, KPIs, and business performance. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
-| 📈 **Data Analysis with Python** | Performed data cleaning, exploratory data analysis (EDA), and visualization using Python libraries. | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
-| 🗄️ **SQL Analytics Project** | Wrote optimized SQL queries for business reporting, KPI analysis, and database management. | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| 🐍 **Python Automation Scripts** | Automated file processing, report generation, and everyday tasks using Python. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 📚 **Python Learning Repository** | Comprehensive repository featuring Python fundamentals, OOP, Exception Handling, and File Handling programs. | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| 📊 **Sales Analytics Dashboard** | Interactive dashboard for analyzing sales trends, KPIs, and business performance. | <img src="https://skillicons.dev/icons?i=python" height="24"/> <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel" height="24"/> |
+| 📈 **Data Analysis with Python** | Performed data cleaning, exploratory data analysis (EDA), and visualization using Python libraries. | <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib" height="24"/> |
+| 🗄️ **SQL Analytics Project** | Wrote optimized SQL queries for business reporting, KPI analysis, and database management. | <img src="https://skillicons.dev/icons?i=mysql" height="24"/> <img src="https://go-skill-icons.vercel.app/api/icons?i=sql" height="24"/> |
+| 🐍 **Python Automation Scripts** | Automated file processing, report generation, and everyday tasks using Python. | <img src="https://skillicons.dev/icons?i=python" height="24"/> |
+| 📚 **Python Learning Repository** | Comprehensive repository featuring Python fundamentals, OOP, Exception Handling, and File Handling programs. | <img src="https://skillicons.dev/icons?i=git,github" height="24"/> |
 
 </div>
 
