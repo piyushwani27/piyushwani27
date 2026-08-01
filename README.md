@@ -41,7 +41,8 @@
 
 ### 📊 Data Analytics & Visualization
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,powerbi,excel,jupyter,anaconda" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,excel,jupyter,anaconda" />
+  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="48" height="48" alt="Power BI"/>
 </p>
 
 ### 🌐 Web & Backend
