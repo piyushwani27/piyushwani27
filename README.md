@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Piyush+Wani;Python+Developer;Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Solving+Real-World+Problems;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
-</h1>
+</h1> 
 
 <h3 align="center">💼 Aspiring Data Analyst | Python Developer | SQL • Power BI • Excel • Python | Open to Work</h3>
 
